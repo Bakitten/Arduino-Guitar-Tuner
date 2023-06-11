@@ -56,7 +56,7 @@ The Arduino Guitar Tuner project offers a cost-effective and accurate solution f
 **Note**: For more detailed information, including the project journal and code snippets, please refer to the [project website](https://github.com/your-username/arduino-guitar-tuner).
 
 ## Journal
-Refer to the [project website](https://github.com/your-username/arduino-guitar-tuner) for the detailed project journal.
+Refer to the pdf in releases section for the detailed project journal.
 
 ## How to Contribute
 Contributions are welcome! Follow these steps to contribute to the Arduino Guitar Tuner project:
